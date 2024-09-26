@@ -1,7 +1,3 @@
-Here's a beautifully crafted GitHub README for your "TechTales" app:
-
----
-
 # TechTales 📝
 
 Welcome to **TechTales** – a sleek, modern, Medium-like platform for sharing stories, articles, and knowledge with the world. This app is built for developers, writers, and thinkers who love to create and consume content on a smooth, user-friendly platform.
