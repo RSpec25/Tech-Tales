@@ -2,8 +2,6 @@
 
 Welcome to **TechTales** – a sleek, modern, Medium-like platform for sharing stories, articles, and knowledge with the world. This app is built for developers, writers, and thinkers who love to create and consume content on a smooth, user-friendly platform.
 
-![TechTales Banner](https://via.placeholder.com/1200x400.png?text=TechTales+-+Share+Your+Stories)
-
 ## 🚀 About TechTales
 
 **TechTales** is a blogging platform inspired by Medium, but with a twist! Built with cutting-edge technologies, it offers a seamless writing and reading experience, making content creation and consumption enjoyable.
